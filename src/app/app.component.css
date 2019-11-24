@@ -11,7 +11,7 @@
 }
 .description-title {
   font-size: 24px;
-  text-align: center;
+  text-align: center; color: rgb(92, 92, 240);
 }
 .description {
   font-size: 18px;
